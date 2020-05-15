@@ -1,0 +1,11 @@
+,A,B,C,D
+,,,,
+,Baseline,Direct RL,Indirect RL,Semidirect RL
+1yr Revenue,1,2,3,4
+1yr Improvement,-,100%,200%,300%
+2yrs Revenue,1,2,3,4
+2yrs Improvement,-,100%,200%,300%
+3yrs Revenue,1,2,3,4
+3yrs Improvement,-,100%,200%,300%
+Total Revenue,1,2,3,4
+Total Improvement,-,100%,200%,300%

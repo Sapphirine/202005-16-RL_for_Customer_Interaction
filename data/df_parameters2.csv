@@ -1,0 +1,12 @@
+,A
+,
+Hyperparameter,Value
+LSTM Epochs,100
+LSTM Batch Size,128
+Base Epochs,10
+Base Batch Size,128
+RL Learning Rate,0.10
+RL Discount Rate,0.90
+RL Iterations,15
+Size of Customers,95412
+Sequence Length,23
